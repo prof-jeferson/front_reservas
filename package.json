@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/cookies": "^0.9.0",
+    "json-server": "^1.0.0-beta.3",
     "next": "15.0.2",
     "nookies": "^2.5.2",
     "react": "19.0.0-rc-02c0e824-20241028",

@@ -1,0 +1,26 @@
+{
+    "reservas": {
+      "mesas" : [
+        {
+          "id": 1,
+          "codigo": 123,
+          "n_lugares": 4
+        },
+        {
+          "id": 2,
+          "codigo": 321,
+          "n_lugares": 4
+        }
+      ],
+      "reservas": [
+        {
+          "id": 1,
+          "usuario_id": 1,
+          "mesa_id": 1,
+          "data": "2024-05-28",
+          "n_pessoas": 2,
+          "status": true
+        }
+      ]
+    }
+  }
